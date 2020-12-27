@@ -1,2 +1,2 @@
-ask = input(¨Enter Your Name: \n)
+ask = input("Enter Your Name: \n")
 print(ask)
