@@ -12,7 +12,7 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/theviletechs/fbhacking
+$ git clone https://github.com/Nikesh-Bedari/nikesh-respiratory
 
 $ cd fbhacking
 
