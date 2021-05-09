@@ -100,7 +100,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://youtu.be/y8SfVqjOjEE')
+            os.system('xdg-open https://youtu.be/nHF8AwurSWY')
     else:
         print "Wrong Username"
         os.system('xdg-open https://www.youtube.com/channel/UCrjGaIUm6rrZKTsXi0JpjEw')
